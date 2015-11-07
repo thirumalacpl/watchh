@@ -1846,3 +1846,23 @@ div.upload input {
 .msg_grid_sudeep {
         padding: 0px 1% 0 6%;
 }
+
+
+/*new modifications for watch-header*/
+    
+    .head_tvo {
+        min-height: 80px;
+      
+    }
+    .head_height_tvo {
+        padding-top: 4.2% !important;
+    }
+    .head_tvo_line {
+    line-height: 2.8em !important; 
+    height: auto !important;
+    }
+     .head_tvo_line_1 {
+    line-height: 3em !important; 
+    height: auto !important;
+    }
+
