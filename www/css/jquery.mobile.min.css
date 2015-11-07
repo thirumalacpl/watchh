@@ -34,3 +34,11 @@ ui-body-a{border-width:1px;border-style:solid}.ui-page-theme-a a,html
 .ui-body-a, .ui-page-theme-a .ui-body-inherit, html .ui-bar-a .ui-body-inherit, html .ui-body-a .ui-body-inherit, html body .ui-group-theme-a .ui-body-inherit, html .ui-panel-page-container-a {
 	background-color: none !important;
 }
+
+
+/*slider zoom close button*/
+.ui-navbar li:last-child .ui-btn:after {
+    margin-right: 4px;
+    margin-top: 5px !important;
+}
+
